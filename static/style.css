@@ -1,0 +1,67 @@
+
+label {
+    font-weight: bold;
+}
+input[type="text"], input[type="file"] {
+    margin-bottom: 10px;
+}
+
+
+/* General padding for all elements */
+* {
+    padding: 5px;
+    margin: 5px;
+}
+
+/* Specific padding and margin for elements */
+input, select, textarea {
+    padding: 10px;
+    margin-bottom: 15px;
+}
+
+.container {
+    padding: 20px;
+    margin: auto;
+    max-width: 90%;
+}
+
+#waitingLabel {
+    background-color: purple;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+/* Styles for mobile devices */
+@media (max-width: 600px) {
+    body {
+        background-color: lightblue;
+    }
+
+    /* Adjusting layout for smaller screens */
+    .container {
+        padding: 10px;
+    }
+
+    /* Specific styles for mobile */
+    h1 {
+        font-size: 20px;
+    }
+}
+
+/* Styles for desktop and larger devices */
+@media (min-width: 601px) {
+    body {
+        background-color: lightcoral;
+    }
+
+    .container {
+        padding: 20px;
+        margin: auto;
+        max-width: 80%;
+    }
+
+    h1 {
+        font-size: 28px;
+    }
+}

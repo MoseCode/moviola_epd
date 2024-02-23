@@ -1,0 +1,44 @@
+{
+    "pods": [
+        {
+            "hostname": "POD-X",
+            "ip_address": "192.168.1.150"
+        },
+        {
+            "hostname": "POD-1",
+            "ip_address": "192.168.1.151"
+        },
+        {
+            "hostname": "POD-2",
+            "ip_address": "192.168.1.152"
+        },
+        {
+            "hostname": "POD-3",
+            "ip_address": "192.168.1.153"
+        },
+        {
+            "hostname": "POD-4",
+            "ip_address": "192.168.1.154"
+        },
+        {
+            "hostname": "POD-5",
+            "ip_address": "192.168.1.155"
+        },
+        {
+            "hostname": "POD-6",
+            "ip_address": "192.168.1.156"
+        },
+        {
+            "hostname": "POD-7",
+            "ip_address": "192.168.1.157"
+        },
+        {
+            "hostname": "POD-8",
+            "ip_address": "192.168.1.158"
+        },
+        {
+            "hostname": "POD-9",
+            "ip_address": "192.168.1.159"
+        }
+    ]
+}

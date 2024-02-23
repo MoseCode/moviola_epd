@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>moviola_red.png</file>
+  </qresource>
+</RCC>
