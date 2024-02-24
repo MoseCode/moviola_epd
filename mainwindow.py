@@ -17,7 +17,7 @@ import epd_logic
 
 
 from PySide6.QtWidgets import QDialog, QVBoxLayout, QLabel
-from PySide6.QtCore import QTimer
+from PySide6.QtCore import on
 
 class CustomDialog(QDialog):
     def __init__(self, message, parent=None):
